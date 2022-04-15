@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "myuser",
+    "password": "mypass",
+    "database": "eccomerce",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "myuser",
+    "password": "mypass",
+    "database": "eccomerce",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "myuser",
+    "password": "mypass",
+    "database": "eccomerce",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
